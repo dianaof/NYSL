@@ -1,0 +1,48 @@
+.logo {
+    width: 100px;
+    position: absolute;
+    top: 200px;
+    right: 100px;
+}
+
+header {
+    height: 200px;
+    background-image: url("../design2_image1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.subtitle {
+    background-color: black;
+    color:white;
+    text-align: center;
+    margin: 0;
+}
+
+.content {
+    width: 75%;
+    float: right;
+    padding-top: 10px;
+}
+
+nav {
+    float: left;
+    width: 20%;
+    right: 100px;
+    top: 1000px;
+    text-align: center;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    display: table;
+    width: 150px;
+}
+
+li{
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
